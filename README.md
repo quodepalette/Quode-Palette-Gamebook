@@ -93,7 +93,7 @@ Game records and favorites are stored on your own computer. Nothing is sent anyw
 Gamebook is an independent project. It is not made by, endorsed by, or connected to Valve or Steam. Steam and the Steam logo are trademarks of Valve Corporation. Game names, artwork and descriptions belong to their respective owners.
 
 ## Font
-The Montserrat fonts in `assets/` are under the SIL Open Font License (see `OFL.txt`).
+The font is under the SIL Open Font License.
 
 
 ## License
